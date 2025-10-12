@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">I'm current learning on</h2>
+<h2 align="left">I'm current learning </h2>
 
 ###
 
